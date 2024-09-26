@@ -1,6 +1,6 @@
 # Janet-rvars
 
-rvars is a simple module to allow for easy generation of trash variables that can be used to test the input validation of different functions. Tired of defining different data structures and variables to test input? Then rvars has you covered. With a few simple functions you can generate a random variable of different that can be easily passed into a function to see if you catch statements handle the input validation correctly.
+rvars is a simple module to allow for easy generation of trash variables that can be used to test the input validation of different functions. Tired of defining different data structures and variables to test input? Then rvars has you covered. With a few simple functions you can generate a random variable of different that can be easily passed into a function to see if your function handle the input validation correctly.
 
 
 ## Installation
